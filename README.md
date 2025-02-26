@@ -25,9 +25,18 @@ Quickart is a mobile grocery delivery application, including a separate admin ap
 *   Acted as the project lead, overseeing design and development to ensure project goals were met.
 *   **Leadership Highlight:** Successfully led a team of 4 to deliver the project on schedule, demonstrating leadership and team management skills.
 
-### Movie Ticket Reservation System
+### Download Accelerator (Java)
 
-[Unfortunately, no GitHub link provided in the resume. Add if available!]
+**Description:**
+
+A multi-threaded download accelerator implemented in Java, designed to improve download speeds by downloading file segments concurrently.  This project demonstrates my understanding of concurrency, networking, and file handling in Java.
+
+*   Developed a download accelerator application in Java.
+*   Implemented multi-threading to enable concurrent downloading of file segments.
+*   Incorporated error handling and retry mechanisms to ensure reliable downloads.
+*   Optimized for efficient resource utilization and improved download speeds.
+
+### Movie Ticket Reservation System
 
 **Description:**
 
@@ -39,7 +48,7 @@ A C++ based system for movie ticket booking and displaying seat availability.
 
 ## Let's Connect!
 
-*   [LinkedIn](Your LinkedIn Profile URL - *Add your LinkedIn URL here* )
+*   [LinkedIn](https://www.linkedin.com/in/maxwell-fernandes-a37007270/)
 *   [Email](mailto:maxwellfernandes082@gmail.com)
 
 
