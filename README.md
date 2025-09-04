@@ -1,29 +1,71 @@
-<div align="center">
-<a href="https://github.com/Maxwell-Fernandes">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Maxwell+Fernandes!;&font=Fira%20Code¢er=true&width=440&height=60&color=#00FFFF&vCenter=true&size=48">
-</a>
-</div>
+# 👋 Hi, I'm Maxwell Fernandes!
 
-# 💫 About Me:
-<h3 align="center">Computer Engineering student passionate about building efficient software solutions. Expertise in web/mobile development with Java, Python, and JavaScript. Expanding knowledge in cloud and big data technologies.</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=Maxwell-Fernandes&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Maxwell-Fernandes?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Maxwell-Fernandes?style=social)
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Maxwell65794986) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandesmax082@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maxwell-Fernandes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Maxwell-Fernandes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Fernandes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🎓 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Maxwell-Fernandes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm a student currently studying **Computer Engineering** with a passion for building smart, impactful technology. I love turning ideas into reality through code, especially in mobile development and computer vision.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maxwell-Fernandes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ Skills & Technologies
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
+![React JS](https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- [**Road Pothole Detection**](https://github.com/Maxwell-Fernandes/ComputerNetworks)  
+  _Detecting potholes using image processing and OpenCV. Harnessing computer vision to make roads safer and smarter._
+
+- **QuickArt (Flutter)**  
+  _A fast, intuitive art creation platform built using Flutter, focused on creativity and seamless user experience._
+
+- [**Portfolio Website**](https://github.com/Maxwell-Fernandes/My-Portfolio)  
+  _Showcasing my journey, skills, and projects in a modern, responsive website._
+
+- [**Mood Mate**](https://github.com/Maxwell-Fernandes/mood-mate)  
+  _Track and analyze your mood to improve well-being._
+
+- [**MovieHub (React Native)**](https://github.com/Maxwell-Fernandes/MovieHub-ReactNative)  
+  _A mobile app for movie enthusiasts built with React Native._
+
+- [**Teknorix Internship**](https://github.com/Maxwell-Fernandes/Teknorix_Internship-)  
+  _My professional internship experience and related projects at Teknorix._
+
+---
+
+## 📈 GitHub Stats
+
+![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxwell-Fernandes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Fernandes&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxwell-Fernandes&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React Native
+- Flutter for mobile development
+- Computer Vision & AI with Python and OpenCV
+- Cloud Computing Fundamentals
+
+---
+
+## 📫 Connect with Me
+
+<!-- Add your social links below, e.g., LinkedIn, website, etc. -->
+[Portfolio Website](https://github.com/Maxwell-Fernandes/My-Portfolio)
+
+
