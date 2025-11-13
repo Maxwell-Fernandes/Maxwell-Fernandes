@@ -1,0 +1,37 @@
+name: Update Quote of the Day
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with Quote
+        uses: PipedreamHQ/github-app-token@v1
+        id: generate-token
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          app_private_key: ${{ secrets.APP_PRIVATE_KEY }}
+        continue-on-error: true
+
+      - name: Fetch and Update Quote
+        run: |
+          quote=$(curl -s https://api.quotable.io/random?tags=technology,inspirational | jq -r '"\(.content) - \(.author)"')
+          echo "QUOTE=$quote" >> $GITHUB_ENV
+
+          # Update README
+          sed -i '/<!--QUOTE:start-->/,/<!--QUOTE:end-->/c\<!--QUOTE:start-->\n> 💡 **Quote of the Day:** '"$quote"'\n<!--QUOTE:end-->' README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update quote of the day" && git push)
