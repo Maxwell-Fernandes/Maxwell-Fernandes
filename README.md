@@ -16,7 +16,7 @@
 <!-- Social Links with Icons -->
 <p align="center">
   <a href="https://linkedin.com/in/maxwell-fernandes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:maxwell.fernandes@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:maxwell.fernandes2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Maxwell-Fernandes/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/Maxwell-Fernandes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -53,7 +53,7 @@ const maxwell = {
 };
 ```
 
-- 🔭 Currently working on **Computer Vision Projects** and **Mobile Applications**
+- 🔭 Currently working on **Agentic Workflow** and **Mobile Applications**
 - 🌱 Learning **Advanced AI/ML** and **Cloud Computing**
 - 💡 Open to collaborating on innovative **open source projects**
 - 💬 Ask me about **React Native, Flutter, OpenCV, Python**
@@ -147,23 +147,7 @@ const maxwell = {
   </picture>
 </div>
 
----
 
-## ⏱️ Weekly Coding Stats (WakaTime)
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-📊 **This week I spent my time on:**
-
-```text
-No activity tracked yet. Set up WakaTime to see your coding stats here!
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
 
 ## 💡 Quote of the Day
 
@@ -243,7 +227,6 @@ Modern, responsive portfolio showcasing my journey and projects.
 
 ### 📦 More Projects
 
-- 🎨 **QuickArt** - Fast, intuitive art creation platform built with Flutter
 - 💼 **[Teknorix Internship](https://github.com/Maxwell-Fernandes/Teknorix_Internship-)** - Professional internship experience and projects
 
 </div>
@@ -353,19 +336,6 @@ I'm always excited to collaborate on innovative projects, discuss technology, or
 
 </div>
 
----
-
-## ⚡ Fun Facts
-
-<div align="center">
-
-🎮 **Gaming enthusiast** | 📚 **Tech blog reader** | ☕ **Coffee-powered coder** | 🎵 **Music lover**
-
-🌙 **Night owl** | 🧩 **Problem solver** | 🎨 **UI/UX enthusiast** | 🚀 **Space geek**
-
-</div>
-
----
 
 ## 📈 Profile Stats
 
