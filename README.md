@@ -16,7 +16,7 @@
 <!-- Social Links with Icons -->
 <p align="center">
   <a href="https://linkedin.com/in/maxwell-fernandes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:maxwell.fernandes2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:maxwellfernandes2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Maxwell-Fernandes/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/Maxwell-Fernandes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -146,8 +146,6 @@ const maxwell = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maxwell-Fernandes/Maxwell-Fernandes/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
 
 ## 💡 Quote of the Day
 
@@ -313,7 +311,7 @@ I'm always excited to collaborate on innovative projects, discuss technology, or
   <a href="https://linkedin.com/in/maxwell-fernandes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:maxwell.fernandes@example.com">
+  <a href="mailto:maxwellfernandes2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Maxwell-Fernandes/My-Portfolio">
