@@ -48,16 +48,16 @@ const maxwell = {
         databases: ["MongoDB", "Firebase", "PostgreSQL"],
         tools: ["Git", "Docker", "VS Code", "Figma"]
     },
-    currentlyLearning: "Deep Learning & Cloud Native Development",
+    currentlyLearning: "Agentic Ai Workflow and MCP servers",
     funFact: "I debug code with coffee ☕"
 };
 ```
 
 - 🔭 Currently working on **Agentic Workflow** and **Mobile Applications**
-- 🌱 Learning **Advanced AI/ML** and **Cloud Computing**
+- 🌱 Learning **Advanced AI/ML**
 - 💡 Open to collaborating on innovative **open source projects**
 - 💬 Ask me about **React Native, Flutter, OpenCV, Python**
-- 📫 Reach me at **maxwell.fernandes@example.com**
+- 📫 Reach me at **maxwellfernandes2004@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code**
 
 ---
