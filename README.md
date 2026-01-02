@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/maxwell-fernandes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:maxwellfernandes2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Maxwell-Fernandes/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://my-portfolio-theta-sand-48.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/Maxwell-Fernandes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -54,7 +54,7 @@ const maxwell = {
 ```
 
 - 🔭 Currently working on **Agentic Workflow** and **Mobile Applications**
-- 🌱 Learning **Advanced AI/ML**
+- 🌱 Learning **Advanced AI/ML and Rag Systems**
 - 💡 Open to collaborating on innovative **open source projects**
 - 💬 Ask me about **React Native, Flutter, OpenCV, Python**
 - 📫 Reach me at **maxwellfernandes2004@gmail.com**
@@ -169,7 +169,7 @@ const maxwell = {
 
 ### 🚗 [Road Pothole Detection](https://github.com/Maxwell-Fernandes/ComputerNetworks)
 
-<a href="https://github.com/Maxwell-Fernandes/ComputerNetworks">
+<a href="https://github.com/Maxwell-Fernandes/Road_Pothole_Detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maxwell-Fernandes&repo=ComputerNetworks&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
@@ -209,7 +209,7 @@ Feature-rich movie app with comprehensive information and recommendations.
 </td>
 <td width="50%">
 
-### 🌐 [Portfolio Website](https://github.com/Maxwell-Fernandes/My-Portfolio)
+### 🌐 [Portfolio Website](https://my-portfolio-theta-sand-48.vercel.app/)
 
 <a href="https://github.com/Maxwell-Fernandes/My-Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maxwell-Fernandes&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -259,10 +259,6 @@ const learningPath = {
         current: "AWS Fundamentals & Services",
         next: "Kubernetes & Docker Orchestration"
     },
-    🔗 blockchain: {
-        current: "Web3 Basics",
-        next: "Smart Contract Development with Solidity"
-    }
 };
 
 console.log("Always learning, always growing! 🚀");
